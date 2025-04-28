@@ -148,7 +148,7 @@
 │   ├── package.json
 │   └── vite.config.js / webpack.config.js
 │
-├── 📁 payments/                     # Payment integrations
+├── 📁 payments/                     # Payment integrations.
 │   ├── 📁 stripe/
 │   │   ├── stripe_webhook.py
 │   │   └── stripe_checkout.py
